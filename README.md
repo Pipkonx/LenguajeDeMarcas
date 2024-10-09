@@ -16,7 +16,6 @@ Ejercicio  | Descripción
 encabezados.
  [Ejercicio 8](/Tema1/Ejercicio6.html)         | Un documento html que incluye distintos formatos de texto.
  [Ejercicio 9](/Tema1/Ejercicio7.html)         | Un documento html que incluye distintos Cambia los atributos de la página para cambiar el fondo y color
- [Ejercicio 10](/Tema1/act8)         | Un documento html que incluye distintos Haz el ejercicio número 6 de “uniwebsidad” del capítulo 4 (aparece al final del artículo):
-https://uniwebsidad.com/libros/xhtml/capitulo-4/enlaces-basicos
+ [Ejercicio 10](/Tema1/act8)         | Ejercicio número 6 de “uniwebsidad” del capítulo 4 (aparece al final del artículo):
  [Ejercicio 11](/Tema1/act9)         | Una página web con navbar y un menu en todas las páginas
  [Ejercicio 12](/Tema1/Ejercicio10.html)         | Una lista dentro de una lista con encavezados y en negritas
