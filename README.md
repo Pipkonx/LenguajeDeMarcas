@@ -12,3 +12,9 @@ Ejercicio  | Descripción
  [Ejercicio 4](/Tema1/Ejercicio2.html)         | Un documento html que incluye distintos encabezados
  [Ejercicio 5](/Tema1/Ejercicio3.html)         | Un documento html que incluye distintos encabezados, y etiquetas strongs
  [Ejercicio 6](/Tema1/Ejercicio4.html)         | Un documento html que incluye distintos 
+ [Ejercicio 7](/Tema1/Ejercicio5.html)         | Un documento html que incluye distintos 
+ [Ejercicio 8](/Tema1/Ejercicio6.html)         | Un documento html que incluye distintos 
+ [Ejercicio 9](/Tema1/Ejercicio7.html)         | Un documento html que incluye distintos 
+ [Ejercicio 10](/Tema1/Ejercicio8.html)         | Un documento html que incluye distintos 
+ [Ejercicio 11](/Tema1/Ejercicio9.html)         | Un documento html que incluye distintos 
+ [Ejercicio 12](/Tema1/Ejercicio10.html)         | Un documento html que incluye distintos 
