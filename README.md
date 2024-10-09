@@ -12,8 +12,7 @@ Ejercicio  | Descripción
  [Ejercicio 4](/Tema1/Ejercicio2.html)         | Un documento html que incluye distintos encabezados
  [Ejercicio 5](/Tema1/Ejercicio3.html)         | Un documento html que incluye distintos encabezados, y etiquetas strongs
  [Ejercicio 6](/Tema1/Ejercicio4.html)         | Una página con un pre y encabezado
- [Ejercicio 7](/Tema1/Ejercicio5.html)         | Una página que contenga varios párrafos, con distinta alineación y con
-encabezados.
+ [Ejercicio 7](/Tema1/Ejercicio5.html)         | Contiene varios párrafos, con distinta alineación y con encabezados.
  [Ejercicio 8](/Tema1/Ejercicio6.html)         | Un documento html que incluye distintos formatos de texto.
  [Ejercicio 9](/Tema1/Ejercicio7.html)         | Un documento html que incluye distintos Cambia los atributos de la página para cambiar el fondo y color
  [Ejercicio 10](/Tema1/act8)         | Ejercicio número 6 de “uniwebsidad” del capítulo 4 (aparece al final del artículo):
