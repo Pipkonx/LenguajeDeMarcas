@@ -11,10 +11,12 @@ Ejercicio  | Descripción
  [Ejercicio 3](/Tema1/Ejercicio1.html)         | Un documento html que incluye encabezados, párrafos y enlaces
  [Ejercicio 4](/Tema1/Ejercicio2.html)         | Un documento html que incluye distintos encabezados
  [Ejercicio 5](/Tema1/Ejercicio3.html)         | Un documento html que incluye distintos encabezados, y etiquetas strongs
- [Ejercicio 6](/Tema1/Ejercicio4.html)         | Un documento html que incluye distintos 
- [Ejercicio 7](/Tema1/Ejercicio5.html)         | Un documento html que incluye distintos 
- [Ejercicio 8](/Tema1/Ejercicio6.html)         | Un documento html que incluye distintos 
- [Ejercicio 9](/Tema1/Ejercicio7.html)         | Un documento html que incluye distintos 
- [Ejercicio 10](/Tema1/Ejercicio8.html)         | Un documento html que incluye distintos 
- [Ejercicio 11](/Tema1/Ejercicio9.html)         | Un documento html que incluye distintos 
- [Ejercicio 12](/Tema1/Ejercicio10.html)         | Un documento html que incluye distintos 
+ [Ejercicio 6](/Tema1/Ejercicio4.html)         | Una página con un pre y encabezado
+ [Ejercicio 7](/Tema1/Ejercicio5.html)         | Una página que contenga varios párrafos, con distinta alineación y con
+encabezados.
+ [Ejercicio 8](/Tema1/Ejercicio6.html)         | Un documento html que incluye distintos formatos de texto.
+ [Ejercicio 9](/Tema1/Ejercicio7.html)         | Un documento html que incluye distintos Cambia los atributos de la página para cambiar el fondo y color
+ [Ejercicio 10](/Tema1/act8)         | Un documento html que incluye distintos Haz el ejercicio número 6 de “uniwebsidad” del capítulo 4 (aparece al final del artículo):
+https://uniwebsidad.com/libros/xhtml/capitulo-4/enlaces-basicos
+ [Ejercicio 11](/Tema1/act9)         | Una página web con navbar y un menu en todas las páginas
+ [Ejercicio 12](/Tema1/Ejercicio10.html)         | Una lista dentro de una lista con encavezados y en negritas
