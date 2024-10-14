@@ -20,4 +20,4 @@ Ejercicio  | Descripción
  [Ejercicio 12](/Tema1/Ejercicio10.html)         | Una lista dentro de una lista con encavezados y en negritas
  [Ejercicio 13](/Tema1/Ejercicio11.html)         | Listas ordenadas y desordenadas
  [Ejercicio 14](/Tema1/Ejercicio12.html)         | Agrega calses y dale color a cada clase
- [Ejercicio 14](/Tema1/Ejercicio13.html)         | Varios parrafos con cabecera cada uno con un color de borde
+ [Ejercicio 15](/Tema1/Ejercicio13.html)         | Varios parrafos con cabecera cada uno con un color de borde
