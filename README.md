@@ -23,3 +23,4 @@ Ejercicio  | Descripción
  [Ejercicio 15](/Tema1/Ejercicio13.html)         | Varios parrafos con cabecera cada uno con un color de borde
  [Ejercicio 16](/Tema1/Ejercicio14.html)         | Varios parrafos con cabecera cada uno con un color de borde y con un padding
  [Ejercicio 18](/Tema1/Ejercicio15.html)         | Crea una tabla sencilla
+ [Ejercicio 19](/Tema1/Ejercicio16.html)         | Crea una tabla Con mi horario de clases
