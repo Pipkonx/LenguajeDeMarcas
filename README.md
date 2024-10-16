@@ -27,7 +27,8 @@ Ejercicio  | Descripción
  [Ejercicio 20](/Tema1/act17)         | Resultados de busqueda en una tabla con enlaces
  [Ejercicio 21](/Tema1/act18)         | Una tabla compleja
  [Ejercicio 22](/Tema1/act19)         | Float right
- [Ejercicio 23](/Tema1/act20)         | imagenes correlativas con div display flex
+ [Ejercicio 23](/Tema1/act20)         | Imagenes correlativas con div display flex
  [Ejercicio 24](/Tema1/act21)         | Una imagen con un enlace
- [Ejercicio 25](/Tema1/act22)         | pagina con favicon
- [Ejercicio 25](/Tema1/act23)         | pagina con iframe
+ [Ejercicio 25](/Tema1/act22)         | Pagina con favicon
+ [Ejercicio 25](/Tema1/act23)         | Pagina con iframe
+ [Ejercicio 25](/Tema1/Ejercicio24.html)         | Formulario Simple
