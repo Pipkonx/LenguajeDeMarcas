@@ -32,3 +32,4 @@ Ejercicio  | Descripción
  [Ejercicio 25](/Tema1/act22)         | Pagina con favicon
  [Ejercicio 26](/Tema1/act23)         | Pagina con iframe
  [Ejercicio 27](/Tema1/Ejercicio24.html)         | Formulario Simple
+ [Ejercicio 28](/Tema1/Ejercicio25.html)         | Formulario
