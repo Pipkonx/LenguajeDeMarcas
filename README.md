@@ -30,5 +30,5 @@ Ejercicio  | Descripción
  [Ejercicio 23](/Tema1/act20)         | Imagenes correlativas con div display flex
  [Ejercicio 24](/Tema1/act21)         | Una imagen con un enlace
  [Ejercicio 25](/Tema1/act22)         | Pagina con favicon
- [Ejercicio 25](/Tema1/act23)         | Pagina con iframe
- [Ejercicio 25](/Tema1/Ejercicio24.html)         | Formulario Simple
+ [Ejercicio 26](/Tema1/act23)         | Pagina con iframe
+ [Ejercicio 27](/Tema1/Ejercicio24.html)         | Formulario Simple
