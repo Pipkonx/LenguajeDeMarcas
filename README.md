@@ -30,3 +30,4 @@ Ejercicio  | Descripción
  [Ejercicio 23](/Tema1/act20)         | imagenes correlativas con div display flex
  [Ejercicio 24](/Tema1/act21)         | Una imagen con un enlace
  [Ejercicio 25](/Tema1/act22)         | pagina con favicon
+ [Ejercicio 25](/Tema1/act23)         | pagina con iframe
