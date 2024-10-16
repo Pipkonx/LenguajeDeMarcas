@@ -27,3 +27,4 @@ Ejercicio  | Descripción
  [Ejercicio 20](/Tema1/act17)         | Resultados de busqueda en una tabla con enlaces
  [Ejercicio 21](/Tema1/act18)         | Una tabla compleja
  [Ejercicio 22](/Tema1/act19)         | Float right
+ [Ejercicio 23](/Tema1/act20)         | imagenes correlativas con div display flex
