@@ -25,3 +25,4 @@ Ejercicio  | Descripción
  [Ejercicio 18](/Tema1/Ejercicio15.html)         | Crea una tabla sencilla
  [Ejercicio 19](/Tema1/Ejercicio16.html)         | Crea una tabla Con mi horario de clases
  [Ejercicio 20](/Tema1/act17)         | Resultados de busqueda en una tabla con enlaces
+ [Ejercicio 20](/Tema1/act18)         | Una tabla compleja
