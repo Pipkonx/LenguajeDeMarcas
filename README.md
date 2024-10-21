@@ -33,8 +33,8 @@ Ejercicio  | Descripción
  [Ejercicio 26](/Tema1/act23)         | Pagina con iframe
  [Ejercicio 27](/Tema1/Ejercicio24.html)         | Formulario Simple
  [Ejercicio 28](/Tema1/Ejercicio25.html)         | Formulario
- [Ejercicio 29](/Tema1/act26)         | GET - POST
- [Ejercicio 30](/Tema1/act27)         | VIDEO
- [Ejercicio 31](/Tema1/act28)         | AUDIO
- [Ejercicio 32](/Tema1/act29/Ejercicio27.html)         | video de yt
- [Ejercicio 32](https://rafaelcorderodev.lovestoblog.com/?i=1)         | web portfolio en un hosting gratuito
+ [Ejercicio 29](/Tema1/act26)         | Get - Post
+ [Ejercicio 30](/Tema1/act27)         | Vidio
+ [Ejercicio 31](/Tema1/act28)         | Audio
+ [Ejercicio 32](/Tema1/act29/Ejercicio27.html)         | Video de yt
+ [Ejercicio 32](https://rafaelcorderodev.lovestoblog.com/?i=1)         | Web portfolio en un hosting gratuito
