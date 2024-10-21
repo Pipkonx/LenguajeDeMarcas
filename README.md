@@ -36,4 +36,4 @@ Ejercicio  | Descripción
  [Ejercicio 29](/Tema1/act26)         | GET - POST
  [Ejercicio 30](/Tema1/act27)         | VIDEO
  [Ejercicio 31](/Tema1/act28)         | AUDIO
- [Ejercicio 32](/Tema1/act29/ejercicio27.html)         | video de yt
+ [Ejercicio 32](/Tema1/act29/Ejercicio27.html)         | video de yt
