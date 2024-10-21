@@ -33,3 +33,4 @@ Ejercicio  | Descripción
  [Ejercicio 26](/Tema1/act23)         | Pagina con iframe
  [Ejercicio 27](/Tema1/Ejercicio24.html)         | Formulario Simple
  [Ejercicio 28](/Tema1/Ejercicio25.html)         | Formulario
+ [Ejercicio 29](/Tema1/act26)         | GET - POST
