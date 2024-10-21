@@ -37,4 +37,4 @@ Ejercicio  | Descripción
  [Ejercicio 30](/Tema1/act27)         | VIDEO
  [Ejercicio 31](/Tema1/act28)         | AUDIO
  [Ejercicio 32](/Tema1/act29/Ejercicio27.html)         | video de yt
- [Ejercicio 32](https://rafaelcorderodev.lovestoblog.com/?i=1)         | Mi Web portfolio
+ [Ejercicio 32](https://rafaelcorderodev.lovestoblog.com/?i=1)         | web portfolio en un hosting gratuito
