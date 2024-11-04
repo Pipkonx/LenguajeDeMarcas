@@ -44,3 +44,4 @@ Ejercicio  | Descripción
 -----------|--------------
  [Ejercicio 1](/Tema1/DOM/Ejercicio1.html)         | Modifica el título mediante JS
  [Ejercicio 2](/Tema1/DOM/Ejercicio2.html)         | Modifica el párrafo mediante JS.
+ [Ejercicio 3](/Tema1/DOM/Ejercicio3.html)         | Modifica los estilos del parrafo con JS
