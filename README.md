@@ -38,3 +38,8 @@ Ejercicio  | Descripción
  [Ejercicio 31](/Tema1/act28)         | Audio
  [Ejercicio 32](/Tema1/act29/Ejercicio27.html)         | Video de yt
  [Ejercicio 32](https://rafaelcorderodev.lovestoblog.com/?i=1)         | Web portfolio en un hosting gratuito
+
+# Ejercicios de DOM
+Ejercicio  | Descripción
+-----------|--------------
+ [Ejercicio 1](/Tema1/DOM/Ejercicio1.html)         | Modifica el título mediante JavaScript.
