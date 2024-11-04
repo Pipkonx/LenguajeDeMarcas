@@ -42,4 +42,5 @@ Ejercicio  | Descripción
 # Ejercicios de DOM
 Ejercicio  | Descripción
 -----------|--------------
- [Ejercicio 1](/Tema1/DOM/Ejercicio1.html)         | Modifica el título mediante JavaScript.
+ [Ejercicio 1](/Tema1/DOM/Ejercicio1.html)         | Modifica el título mediante JS
+ [Ejercicio 2](/Tema1/DOM/Ejercicio2.html)         | Modifica el párrafo mediante JS.
