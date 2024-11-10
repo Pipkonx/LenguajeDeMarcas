@@ -46,3 +46,10 @@ Ejercicio  | Descripción
  [Ejercicio 2](/Tema1/DOM/Ejercicio2.html)         | Modifica el párrafo mediante JS.
  [Ejercicio 3](/Tema1/DOM/Ejercicio3.html)         | Modifica los estilos del parrafo con JS
  [Ejercicio 4](/Tema1/DOM/Ejercicio4/Ejercicio1.html)         | Modifica la imagen con js
+
+
+# Proyecto Final 1EVA
+### crear una web
+[Enunciado](https://docs.google.com/document/d/18Ru8RTDNnfByqD1XmgBmsbB0heMsepe_rTok2kAbi34/edit?usp=sharing)
+[Web](rca.000.pe)
+[Archivos](/Tema1/Web)
