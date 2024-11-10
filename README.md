@@ -50,6 +50,8 @@ Ejercicio  | Descripción
 
 # Proyecto Final 1EVA
 ### crear una web
+Ejercicio  |
+-----------|
 [Enunciado](https://docs.google.com/document/d/18Ru8RTDNnfByqD1XmgBmsbB0heMsepe_rTok2kAbi34/edit?usp=sharing)
 [Web](rca.000.pe)
 [Archivos](/Tema1/Web)
