@@ -53,5 +53,5 @@ Ejercicio  | Descripción
 Ejercicio  | Descripción
 -----------|--------------
 [Enlace 1](https://docs.google.com/document/d/18Ru8RTDNnfByqD1XmgBmsbB0heMsepe_rTok2kAbi34/edit?usp=sharing)  | Enunciado Actividad
-[Enlace 2](rca.000.pe) | Enlace a la web en el hosting
+[Enlace 2](https://rca.000.pe) | Enlace a la web en el hosting
 [Enlace 3](/Tema1/Web) | Archivos de la web
