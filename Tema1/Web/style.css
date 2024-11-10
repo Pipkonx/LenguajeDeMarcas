@@ -16,12 +16,11 @@
     --amarillo: #ffffcc;
 }
 
-#google_translate_element{
+#google_translate_element {
     display: grid;
     justify-content: center;
     align-items: center;
 }
-
 
 /* ! TODO */
 * {
@@ -65,8 +64,12 @@ header {
     align-items: center;
     display: flex;
     list-style: none;
-    float: left;
     overflow: hidden;
+    float: left;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
 }
 
 .navbar li a {
@@ -77,13 +80,6 @@ header {
     width: 63px;
 }
 
-.Nlogo {
-    display: flex;
-    height: 100%;
-    justify-content: center;
-    align-items: center;
-}
-
 /*? BOTONES */
 button {
     padding: 10px 20px 10px 20px;
@@ -91,13 +87,13 @@ button {
     background-color: var(--verde);
     border-radius: 5px;
     color: var(--blanco);
-    transition: 0.4 ease-in-out;
+    transition: 0.4 ease;
     border: none;
 }
 
 button:hover {
     background-color: var(--verdebd);
-    transition: 0.4 ease-in-out;
+    transition: 0.4 ease;
 }
 
 .btn {
@@ -108,7 +104,6 @@ button:hover {
 .btn:hover {
     background-color: var(--salmondb);
 }
-
 
 /*! BODY */
 /*? CUERPO */
@@ -140,10 +135,6 @@ p {
     font-size: 8px;
     margin: 20px;
     padding: 40px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
 }
 
 .code p {
@@ -237,7 +228,6 @@ table {
 
 .tg th {
     background-color: var(--negro);
-    border-color: var(--negro);
     border-style: solid;
     border-width: 1px;
     color: var(--blanco);
@@ -293,10 +283,6 @@ table {
     margin: 20px;
     padding: 50px;
     display: grid;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
 }
 
 .DC img {
@@ -382,8 +368,4 @@ footer a:hover {
     border-radius: 5px;
     margin: 20px 0 0 0;
     padding: 50px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
 }
