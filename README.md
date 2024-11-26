@@ -26,7 +26,7 @@ Ejercicio  | Descripción
  [Ejercicio 19](/Tema1/Ejercicio16.html)         | Crea una tabla Con mi horario de clases
  [Ejercicio 20](/Tema1/act17)         | Resultados de busqueda en una tabla con enlaces
  [Ejercicio 21](/Tema1/act18)         | Una tabla compleja
- [Ejercicio 22](/Tema1/act19)         | Float right
+ [Ejercicio 22](/Tema1/act19)         | Float right -- SOLO ES NECESARIO HACER HASTA AQUÍ
  [Ejercicio 23](/Tema1/act20)         | Imagenes correlativas con div display flex
  [Ejercicio 24](/Tema1/act21)         | Una imagen con un enlace
  [Ejercicio 25](/Tema1/act22)         | Pagina con favicon
@@ -34,7 +34,7 @@ Ejercicio  | Descripción
  [Ejercicio 27](/Tema1/Ejercicio24.html)         | Formulario Simple
  [Ejercicio 28](/Tema1/Ejercicio25.html)         | Formulario
  [Ejercicio 29](/Tema1/act26)         | Get - Post
- [Ejercicio 30](/Tema1/act27)         | Vidio
+ [Ejercicio 30](/Tema1/act27)         | Video
  [Ejercicio 31](/Tema1/act28)         | Audio
  [Ejercicio 32](/Tema1/act29/Ejercicio27.html)         | Video de yt
  [Ejercicio 32](https://rafaelcorderodev.lovestoblog.com/?i=1)         | Web portfolio en un hosting gratuito
