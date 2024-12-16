@@ -53,6 +53,5 @@ Ejercicio  | Descripción
 Ejercicio  | Descripción
 -----------|--------------
 [Enlace 1](http://docs.google.com/document/d/18Ru8RTDNnfByqD1XmgBmsbB0heMsepe_rTok2kAbi34/edit?usp=sharing_blank)  | Enunciado Actividad
-<a href="http://rca.000.pe" target="_blank">Enlace 2</a> | Enlace a la web en el hosting SIN certificado SSL
-<a href="https://rca.000.pe" target="_blank">Enlace 2</a> | Enlace a la web en el hosting CON certificado SSL
+<a href="http://rca.free.nf" target="_blank">Enlace 2</a> | Enlace a la web en el hosting SIN certificado SSL
 [Enlace 3](/Tema1/Web) | Archivos de la web
