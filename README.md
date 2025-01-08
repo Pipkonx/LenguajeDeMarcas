@@ -31,7 +31,7 @@ Ejercicio  | Descripción
  [Ejercicio 24](/Tema1/act21)         | Una imagen con un enlace
  [Ejercicio 25](/Tema1/act22)         | Pagina con favicon
  [Ejercicio 26](/Tema1/act23)         | Pagina con iframe
- [Ejercicio 27](/Tema1/Ejercicio24.html)         | Formulario Simple
+ [Ejercicio 27](/Tema1/Ejercicio24)         | Formulario Simple
  [Ejercicio 28](/Tema1/Ejercicio25.html)         | Formulario
  [Ejercicio 29](/Tema1/act26)         | Get - Post
  [Ejercicio 30](/Tema1/act27)         | Video
