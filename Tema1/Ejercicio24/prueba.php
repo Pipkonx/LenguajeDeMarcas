@@ -35,7 +35,7 @@
         </div>
 
         <input type="submit" value="Guardar cambios"></input>
-        <button>Borrar los datos introducidos</button>
+        <input type="reset" value="Borrar los datos introducidos">
     </form>
 
     <style>
