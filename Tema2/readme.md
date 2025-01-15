@@ -7,4 +7,5 @@ Lenguajes de marcas DAW
 
 Ejercicio  | Descripción
 -----------|--------------
- [Ejercicio 1](/Tema1/Index.html)         | Página web sencilla con un encabezado h1 y un pequeño párrafo
+ [Ejercicio 1](/Tema1/Ejercicio1.html)         | Propiedades css
+ [Ejercicio 2](/Tema1/Ejercicio2.html)         | Página web sencilla con un encabezado h1 y un pequeño párrafo
