@@ -16,3 +16,5 @@ Ejercicio  | Descripción
  Ejercicio 7 | Usan la propiedad Float: left
  Ejercicio 8 | Usan la propiedad position: absolute y el z-index
  Ejercicio 9 | Lo mismo usan position absolute y el z-index
+ [Ejercicio 10](/Tema2/Ejercicio10.html) | Usando la propiedad flex
+ 
