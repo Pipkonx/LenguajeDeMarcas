@@ -12,4 +12,4 @@ Ejercicio  | Descripción
  [Ejercicio 3](/Tema2/Ejercicio3.html)         | Curriculum Vitae
  [Ejercicio 4](/Tema2/Ejercicio4.html)         | Copiar los estilos de una tabla
  [Ejercicio 5](/Tema2/Ejercicio5.html)         | Crear una tabla
- [Ejercicio 6](/Tema2/Ejercicio6.html)         | Propiedad Float
+ [Ejercicio 6](/Tema2/Ejercicio6.html)         | Tabla con propiedades
