@@ -15,3 +15,4 @@ Ejercicio  | Descripción
  [Ejercicio 6](/Tema2/Ejercicio6.html)         | Tabla con propiedades
  Ejercicio 7         | Usan la propiedad Float: left
  Ejercicio 8         | Usan la propiedad position: absolute y el z-index
+ Ejercicio 9         | No lo entiendo
