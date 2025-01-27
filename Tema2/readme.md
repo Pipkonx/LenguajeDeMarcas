@@ -13,6 +13,6 @@ Ejercicio  | Descripción
  [Ejercicio 4](/Tema2/Ejercicio4.html)         | Copiar los estilos de una tabla
  [Ejercicio 5](/Tema2/Ejercicio5.html)         | Crear una tabla
  [Ejercicio 6](/Tema2/Ejercicio6.html)         | Tabla con propiedades
- Ejercicio 7         | Usan la propiedad Float: left
- Ejercicio 8         | Usan la propiedad position: absolute y el z-index
- Ejercicio 9         | Lo mismo usan position absolute y el z-index
+ Ejercicio 7 | Usan la propiedad Float: left
+ Ejercicio 8 | Usan la propiedad position: absolute y el z-index
+ Ejercicio 9 | Lo mismo usan position absolute y el z-index
