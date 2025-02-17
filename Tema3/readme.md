@@ -11,5 +11,5 @@ Ejercicio  | Descripción
  [Ejercicio 3](/Tema3/Ejercicio3.html)         | Mostrar imágenes
  [Ejercicio 4](/Tema3/Ejercicio4.html)         | Trabajando con variables
  [Ejercicio 5](/Tema3/Ejercicio5.html)         | Cambiamos imagen estilo y texto
- [Ejercicio 6](/Tema3/Ejercicio6.html)         | 
+ [Ejercicio 6](/Tema3/Ejercicio6.html)         | copia la imagen
  
