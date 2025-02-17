@@ -10,5 +10,6 @@ Ejercicio  | Descripción
  [Ejercicio 2](/Tema3/Ejercicio2/Ejercicio2.html)         | Mostrar mensaje
  [Ejercicio 3](/Tema3/Ejercicio3.html)         | Mostrar imágenes
  [Ejercicio 4](/Tema3/Ejercicio4.html)         | Trabajando con variables
- [Ejercicio 5](/Tema3/Ejercicio5.html)         | cambiamos imagen estilo y texto
+ [Ejercicio 5](/Tema3/Ejercicio5.html)         | Cambiamos imagen estilo y texto
+ [Ejercicio 6](/Tema3/Ejercicio6.html)         | 
  
