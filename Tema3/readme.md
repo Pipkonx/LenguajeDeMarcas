@@ -6,5 +6,5 @@ Lenguajes de marcas DAW
 
 Ejercicio  | Descripción
 -----------|--------------
- [Ejercicio 1](/Tema3/Ejercicio1.html)         | Ejercicio básico
+ [Ejercicio 1](/Tema3/Ejercicio1/Ejercicio1.html)         | Ejercicio básico
  
