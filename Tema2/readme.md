@@ -20,6 +20,5 @@ Ejercicio  | Descripción
  [Ejercicio 11](/Tema2/Ejercicio11) | Galería de imagenes
  [Ejercicio 12](/Tema2/Ejercicio12.html) | Web responsibe
  [Ejercicio 13](/Tema2/Boostrap/index.html) | Práctica de Boostrap
- [Ejercicio 14](cuidatusalud.lovestoblog.com) | Web de Boostrap
  <a href="http://cuidatusalud.lovestoblog.com" target="_blank">Web de Boostrap</a>
  
