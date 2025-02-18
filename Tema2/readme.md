@@ -19,5 +19,6 @@ Ejercicio  | Descripción
  [Ejercicio 10](/Tema2/Ejercicio10.html) | Usando la propiedad flex
  [Ejercicio 11](/Tema2/Ejercicio11) | Galería de imagenes
  [Ejercicio 12](/Tema2/Ejercicio12.html) | Web responsibe
- [Ejercicio 12](/Tema2/Boostrap/index.html) | Práctica de Boostrap
+ [Ejercicio 13](/Tema2/Boostrap/index.html) | Práctica de Boostrap
+ [Ejercicio 14](cuidatusalud.lovestoblog.com) | Web de Boostrap
  
