@@ -86,7 +86,7 @@
                            <p class="banner_text">Hay muchas variaciones de pasajes de Lorem Ipsum.</p>
                            <div class="btn_main">
                               <div class="more_bt"><a href="#">Contactar ahora</a></div>
-                              <div class="contact_bt"><a href="#">Obtenga una cotización</a></div>
+                              <div class="contact_bt"><a href="#">Ver más</a></div>
                            </div>
                         </div>
                         <div class="col-md-6">
@@ -105,7 +105,7 @@
                            <p class="banner_text">Hay muchas variaciones de pasajes de Lorem Ipsum.</p>
                            <div class="btn_main">
                               <div class="more_bt"><a href="#">Contactar ahora</a></div>
-                              <div class="contact_bt"><a href="#">Obtener una cotización</a></div>
+                              <div class="contact_bt"><a href="#">Ver planes</a></div>
                            </div>
                         </div>
                         <div class="col-md-6">
@@ -129,29 +129,16 @@
          <h1 class="health_taital">Lo mejor en atención médica para usted</h1>
          <p class="health_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
             Algunas cosas suceden como resultado de mucho trabajo y dolor. Para ir al grano, ¿quién?</p>
-         <div class="health_section layout_padding">
-            <div class="row">
-               <div class="col-sm-7">
-                  <div class="image_main">
-                     <div class="main">
-                        <img src="images/img-2.png" alt="Avatar" class="image" style="width:100%">
-                     </div>
-                     <div class="middle">
-                        <div class="text"><img src="images/icon-1.png" style="width: 40px;"></div>
-                     </div>
-                  </div>
+            <div class="container mt-5">
+               <div class="embed-responsive embed-responsive-16by9">
+                 <video class="embed-responsive-item" controls>
+                   <source src="/film/video.mp4" type="video/mp4">
+                   Tu navegador no soporta el formato de video.
+                 </video>
                </div>
-               <div class="col-sm-5">
-                  <div class="image_main_1">
-                     <div class="main">
-                        <img src="images/img-3.png" alt="Avatar" class="image" style="width:100%">
-                     </div>
-                     <div class="middle">
-                        <div class="text"><img src="images/icon-1.png" style="width: 40px;"></div>
-                     </div>
-                  </div>
-               </div>
-            </div>
+             </div>
+             
+             
             <div class="getquote_bt_1"><a href="#">Leer más <span><img src="images/right-arrow.png"></span></a></div>
          </div>
       </div>
@@ -165,7 +152,15 @@
                   Algunas cosas suceden como resultado de mucho trabajo y dolor. Para ir al grano</p>
             </div>
             <div class="right_main">
-               <div class="play_icon"><a href="#"><img src="images/play-icon.png"></a></div>
+               <div class="play_icon">
+                  <a href="#" onclick="document.getElementById('audioPlayer').play();">
+                     <img src="images/play-icon.png" alt="Play">
+                  </a>
+               </div>
+               <audio id="audioPlayer" preload="auto">
+                  <source src="film/Hablemos de salud mental - Castellano.mp3" type="audio/mp3">
+                  Tu navegador no soporta el formato de audio.
+               </audio>
             </div>
          </div>
       </div>
@@ -236,14 +231,14 @@
          <div class="carousel-inner">
             <div class="carousel-item active">
                <div class="container">
-                  <h1 class="client_taital">Lo que la gente dice</h1>
+                  <h1 class="client_taital">Lo que la gente dice 1</h1>
                   <p class="client_text">Es un hecho bien establecido que un lector se distraerá</p>
                   <div class="client_section_2">
                      <div class="client_left">
                         <div><img src="images/client-img.png" class="client_img"></div>
                      </div>
                      <div class="client_right">
-                        <h3 class="distracted_text">Distracción por</h3>
+                        <h3 class="distracted_text">Pepe Pérez</h3>
                         <p class="lorem_text">Es un hecho bien establecido que un lector se distraerá por el contenido
                            legible de una página al mirar su diseño. El punto de usar Lorem Ipsum es que tiene una
                            distribución más o menos normal de letras</p>
@@ -254,14 +249,14 @@
             </div>
             <div class="carousel-item">
                <div class="container">
-                  <h1 class="client_taital">Lo que la gente dice</h1>
+                  <h1 class="client_taital">Lo que la gente dice 2</h1>
                   <p class="client_text">Es un hecho bien establecido que un lector se distraerá</p>
                   <div class="client_section_2">
                      <div class="client_left">
-                        <div><img src="images/client-img.png" class="client_img"></div>
+                        <div><img src="images/client-img1.png" class="client_img"></div>
                      </div>
                      <div class="client_right">
-                        <h3 class="distracted_text">Distracción por</h3>
+                        <h3 class="distracted_text">Juan Pérez</h3>
                         <p class="lorem_text">Es un hecho bien establecido que un lector se distraerá por el contenido
                            legible de una página al mirar su diseño. El punto de usar Lorem Ipsum es que tiene una
                            distribución más o menos normal de letras</p>
@@ -272,14 +267,14 @@
             </div>
             <div class="carousel-item">
                <div class="container">
-                  <h1 class="client_taital">Lo que la gente dice</h1>
+                  <h1 class="client_taital">Lo que la gente dice 3</h1>
                   <p class="client_text">Es un hecho bien establecido que un lector se distraerá</p>
                   <div class="client_section_2">
                      <div class="client_left">
-                        <div><img src="images/client-img.png" class="client_img"></div>
+                        <div><img src="images/client-img2.png" class="client_img"></div>
                      </div>
                      <div class="client_right">
-                        <h3 class="distracted_text">Distracción por</h3>
+                        <h3 class="distracted_text">Ana García</h3>
                         <p class="lorem_text">Es un hecho bien establecido que un lector se distraerá por el contenido
                            legible de una página al mirar su diseño. El punto de usar Lorem Ipsum es que tiene una
                            distribución más o menos normal de letras</p>
