@@ -12,4 +12,6 @@ Ejercicio  | Descripción
  [Ejercicio 4](/Tema3/Ejercicio4.html)         | Trabajando con variables
  [Ejercicio 5](/Tema3/Ejercicio5.html)         | Cambiamos imagen estilo y texto
  [Ejercicio 6](/Tema3/Ejercicio6.html)         | Copia la imagen
+ [Ejercicio 7](/Tema3/Ejercicio7/Ejercicio7.html)         | Slider
+
  
