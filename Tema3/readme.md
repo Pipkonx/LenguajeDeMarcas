@@ -26,5 +26,9 @@ Ejercicio  | Descripción
  [Ejercicio 18](/Tema3/)         | 
  [Ejercicio 19](/Tema3/)         | 
  [Ejercicio 20](/Tema3/)         | 
+ [Ejercicio 21](/Tema3/)         | 
+ [Ejercicio 22](/Tema3/)         | 
+ [Ejercicio 23](/Tema3/)         | 
+ [Ejercicio 24](/Tema3/)         | 
 
  
