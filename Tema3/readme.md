@@ -13,5 +13,6 @@ Ejercicio  | Descripción
  [Ejercicio 5](/Tema3/Ejercicio5.html)         | Cambiamos imagen estilo y texto
  [Ejercicio 6](/Tema3/Ejercicio6.html)         | Copia la imagen
  [Ejercicio 7](/Tema3/Ejercicio7/Ejercicio7.html)         | Slider
+ [Ejercicio 7](/Tema3/Ejercicio8.html)         | Calculadora
 
  
