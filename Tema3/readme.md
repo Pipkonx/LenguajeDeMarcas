@@ -15,7 +15,7 @@ Ejercicio  | Descripción
  [Ejercicio 7](/Tema3/Ejercicio7/Ejercicio7.html)         | Slider
  [Ejercicio 8](/Tema3/Ejercicio8.html)         | Calculadora
  [Ejercicio 9](/Tema3/Ejercicio9.html)         | Conversor de unidades
- [Ejercicio 10](/Tema3/Ejercicio9.html)         | Conversor de unidades
+ [Ejercicio 10](/Tema3/)         | 
  [Ejercicio 11](/Tema3/)         | 
  [Ejercicio 12](/Tema3/)         | 
  [Ejercicio 13](/Tema3/)         | 
