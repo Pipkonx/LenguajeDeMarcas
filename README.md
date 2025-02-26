@@ -2,7 +2,7 @@
 
 Lenguajes de marcas DAW
 
- [Ejercicio1](/Tema1/Practicas/Bombilla.html)         | Juego de la bombilla
+ [Ejercicio1](/Practicas/Bombilla.html)         | Juego de la bombilla
  
 Tema  | Descripción
 -----------|--------------
