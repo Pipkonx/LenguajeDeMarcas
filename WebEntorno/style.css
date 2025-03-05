@@ -200,6 +200,10 @@ h1 {
         font-size: 5.5rem;
     }
 
+    section a p {
+        font-size: 3rem;
+    }
+
     .menu, #menu {
         flex-wrap: nowrap;
     }
@@ -217,7 +221,7 @@ h1 {
     }
 
     #flecha {
-        width: 2rem;
+        width: 10rem;
     }
 }
 
