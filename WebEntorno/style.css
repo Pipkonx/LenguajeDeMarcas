@@ -253,6 +253,12 @@ h1 {
         top: 90%;
     }
 
+    #flecha:hover {
+        filter: invert(100%);
+        -webkit-filter: invert(100%);
+        transition: all 0.3s ease-in-out;
+}
+
     #menu {
         font-size: 2.1vw;
     }
