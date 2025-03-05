@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    font-size: 1vw;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+nav a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+video {
+    z-index: -1;
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1vw;
+    padding: 0;
+}
+
+.menu li {
+    border-top: 0.3vh solid white;
+    border-bottom: 0.3vh solid white;
+    padding: 1rem;
+    transition: all 0.3s ease-in-out;
+}
+
+.comienzo {
+    border-radius: 10px 0 0 10px;
+}
+
+.final {
+    border-radius: 0 10px 10px 0;
+}
+
+li:hover {
+    background-color: white;
+    box-shadow: 0 0 10px 0 white;
+    color: black;
+}
+
+::selection {
+    color: white;
+    background-color: #6d63c2;
+}
+
+.interior {
+    color: white;
+}
+
+img {
+    width: 10vw;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    color: white;
+    top: 97%;
+    left: 50%;
+    color: white;
+    transform: translate(-50%, -50%);
+}
+
+.enlace {
+    font-weight: bold;
+    text-decoration: none;
+    color: #6d63c2;
+    transition: all 0.3s ease-in-out;
+}
+
+.enlace:hover {
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
+
+.enlace:visited {
+    color: none;
+}
+
+nav {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    color: white;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+}
+
+section {
+    position: absolute;
+    background-color: white;
+    width: 80vw;
+    padding: 2vw;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.activo {
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 10px 0 white;
+}
