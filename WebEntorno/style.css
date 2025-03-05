@@ -193,11 +193,11 @@ h1 {
 
 @media (max-width: 768px) {
     body {
-        font-size: 5vw;
+        font-size: 6vw;
     }
 
     section p {
-        font-size: 2.5rem;
+        font-size: 3.5rem;
     }
 
     .menu, #menu {
@@ -209,11 +209,11 @@ h1 {
     }
 
     h1 {
-        font-size: 3rem;
+        font-size: 4rem;
     }
 
     h2 {
-        font-size: 2.5rem;
+        font-size: 3.5rem;
     }
 
     #flecha {
