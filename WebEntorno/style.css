@@ -184,12 +184,35 @@ h1 {
     top: 90%;
     left: 92.5%;
     transform: translate(-50%, -50%);
+    animation: moverFlecha 1s ease-in-out infinite;
+}
+
+#flecha:hover {
+    filter: invert(0);
+    -webkit-filter: invert(0);
 }
 
 ::selection {
     color: white;
     background-color: #6d63c2;
 }
+
+@keyframes moverFlecha {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-2px);
+    }
+
+    100% {
+        transform: translateY(0);
+        /* Vuelve a la posición inicial */
+    }
+}
+
+
 
 @media (max-width: 768px) {
     body {
@@ -204,7 +227,8 @@ h1 {
         font-size: 3rem;
     }
 
-    .menu, #menu {
+    .menu,
+    #menu {
         flex-wrap: nowrap;
     }
 
@@ -222,13 +246,17 @@ h1 {
 
     #flecha {
         width: 10rem;
+        filter: invert(0);
+        -webkit-filter: invert(0);
+        left: 45%;
+        top: 90%;
     }
-}
 
-#menu {
-font-size: 2.1vw;
-}
+    #menu {
+        font-size: 2.1vw;
+    }
 
-.menu {
-font-size: 1.8rem;
+    .menu {
+        font-size: 1.8rem;
+    }
 }
