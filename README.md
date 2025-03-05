@@ -10,4 +10,4 @@ Tema  | Descripción
  [Tema2](/Tema2/readme.md)         | CSS 
  [Tema3](/Tema3/readme.md)         | JS y DOM
 
- [WebEntorno](/WebEntorno/Index.html)
+ [WebEntorno](/WebEntorno/index.html)
