@@ -149,7 +149,7 @@ footer p {
 p,
 .link {
     font-size: 1.5rem;
-    width: 85%;
+    width: 100%;
 }
 
 section p {
@@ -219,4 +219,12 @@ h1 {
     #flecha {
         width: 2rem;
     }
+}
+
+#menu {
+font-size: 2.1vw;
+}
+
+.menu {
+font-size: 1.8rem;
 }
