@@ -288,4 +288,9 @@ button:hover {
     .menu {
         font-size: 1.8rem;
     }
+
+    button {
+        font-size: 4rem;
+        padding: 1rem 2rem;
+    }
 }
