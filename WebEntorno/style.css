@@ -269,7 +269,7 @@ button:hover {
     }
 
     section a p {
-        font-size: 3rem;
+        font-size: 2.1rem;
     }
 
     .menu,
@@ -286,10 +286,10 @@ button:hover {
     }
 
     h2 {
-        font-size: 8.5rem;
+        font-size: 8rem;
     }
     h3 {
-        font-size: 6rem;
+        font-size: 5rem;
     }
 
     #flecha {
@@ -318,4 +318,8 @@ button:hover {
         font-size: 4rem;
         padding: 1rem 2rem;
     }
+
+    div ol li{
+        font-size: 2.3rem;
+    }	
 }
