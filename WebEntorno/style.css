@@ -109,7 +109,6 @@ section {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
     text-wrap: balance;
 }
 
@@ -151,8 +150,27 @@ p, link {
     width: 100%;
 }
 
-section p {
+section p{
     font-size: 2rem;
+    text-align: center;
+}
+
+section {
+    text-align: center;}
+
+section ol {
+    text-align: start;
+}
+
+section ol li {
+    margin: 1vw 7vw;
+    font-size: 1rem;
+}
+
+section ul {
+    margin: 0 5vw;
+    padding: 0 5vw;
+
 }
 
 .activo {
