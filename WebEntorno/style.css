@@ -146,8 +146,7 @@ footer p {
     border-radius: 0 10px 10px 0;
 }
 
-p,
-.link {
+p, link {
     font-size: 1.5rem;
     width: 100%;
 }
@@ -172,7 +171,7 @@ h2 {
 }
 
 h3 {
-    margin: 0;
+    margin: 2vw 0;
     font-size: 2rem;
 }
 
@@ -270,6 +269,9 @@ button:hover {
 
     h2 {
         font-size: 8.5rem;
+    }
+    h3 {
+        font-size: 6rem;
     }
 
     #flecha {
