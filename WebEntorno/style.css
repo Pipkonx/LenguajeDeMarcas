@@ -181,7 +181,7 @@ h1 {
     -webkit-filter: invert(100%);
     width: 2.5rem;
     position: fixed;
-    top: 90%;
+    top: 78%;
     left: 92.5%;
     transform: translate(-50%, -50%);
     animation: moverFlecha 1s ease-in-out infinite;
