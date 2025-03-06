@@ -163,7 +163,7 @@ section ol {
 }
 
 section ol li {
-    margin: 1vw 7vw;
+    margin: 0 7vw 0 7vw;
     font-size: 1rem;
 }
 
@@ -243,6 +243,12 @@ button:hover {
     background-color: #6d63c2;
 }
 
+hr {
+    border-radius: 5px;
+    margin: 4vw 0;
+    width: 100%;
+}
+
 @keyframes moverFlecha {
     0% {
         transform: translateY(0);
@@ -265,7 +271,7 @@ button:hover {
     }
 
     section p {
-        font-size: 5.5rem;
+        font-size: 2.3rem;
     }
 
     section a p {
