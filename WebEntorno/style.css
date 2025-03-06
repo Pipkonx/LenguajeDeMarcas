@@ -94,7 +94,7 @@ header img {
 }
 
 section {
-    margin: 6rem auto 2rem auto;
+    margin: auto auto 2rem auto;
     background-color: white;
     width: 90%;
     max-width: 1200px;
@@ -193,6 +193,29 @@ h1 {
     transition: all 0.3s ease-in-out;
 }
 
+button {
+    color: black;
+    background-color: transparent;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 1.5rem;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 5px 5px 0 gray;
+    border: none;
+    cursor: pointer;
+}
+
+button a {
+    text-decoration: none;
+    color: black;
+}
+
+button:hover {
+    box-shadow: 0 7px 5px 0 gray;
+    transition: all 0.3s ease-in-out;
+    transform: translateY(-2px);
+}
+
 ::selection {
     color: white;
     background-color: #6d63c2;
@@ -209,7 +232,6 @@ h1 {
 
     100% {
         transform: translateY(0);
-        /* Vuelve a la posición inicial */
     }
 }
 
@@ -250,14 +272,14 @@ h1 {
         filter: invert(0);
         -webkit-filter: invert(0);
         left: 45%;
-        top: 90%;
+        top: 85%;
     }
 
     #flecha:hover {
         filter: invert(100%);
         -webkit-filter: invert(100%);
         transition: all 0.3s ease-in-out;
-}
+    }
 
     #menu {
         font-size: 2.1vw;
