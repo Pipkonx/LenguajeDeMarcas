@@ -73,7 +73,7 @@ header img {
     list-style: none;
     font-weight: bold;
     text-transform: uppercase;
-    font-size: 1.2vw;
+    font-size: 2vw;
     padding: 0;
     flex-wrap: nowrap;
 }
@@ -96,7 +96,7 @@ header img {
 section {
     margin: auto auto 2rem auto;
     background-color: white;
-    width: 90%;
+    width: 90vw;
     max-width: 1200px;
     padding: 2rem;
     position: static;
@@ -313,7 +313,7 @@ hr {
     }
 
     #menu {
-        font-size: 2.1vw;
+        font-size: 3vw;
     }
 
     .menu {
