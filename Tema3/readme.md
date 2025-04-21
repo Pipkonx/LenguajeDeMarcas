@@ -24,5 +24,7 @@ Ejercicio  | Descripción
 ### Ejercicios de DOM
 Ejercicio  | Descripción
 -----------|--------------
- [Ejercicio 1](/Tema3/Ejercicio13.html)         | Ejercicio básico
- [Ejercicio 2](/Tema3/Ejercicio14.html)         | Ejercicio básico
+ [Ejercicio 1](/Tema3/Ejercicio1D.html)         | Añadir elementos
+ [Ejercicio 2](/Tema3/Ejercicio2D.html)         | Creamos elementos dinámicos
+ [Ejercicio 3](/Tema3/Ejercicio3D.html)         | Removemos elementos
+ [Ejercicio 4](/Tema3/Ejercicio4D.html)         | Documento de HTML con propiedades
