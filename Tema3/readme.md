@@ -5,6 +5,7 @@ Lenguajes de marcas DAW
 ## Tema 3 - JS Y DOM
  [WebEntorno](/Tema3/WebEntorno/index.html)
 
+### Ejercicios de JS
 Ejercicio  | Descripción
 -----------|--------------
  [Ejercicio 1](/Tema3/Ejercicio1/Ejercicio1.html)         | Ejercicio básico
@@ -19,3 +20,9 @@ Ejercicio  | Descripción
  [Ejercicio 10](/Tema3/Ejercicio10.html)         | Juego de memoria
  [Ejercicio 11](/Tema3/Ejercicio11.html)         | Validación de formulario
  [Ejercicio 12](/Tema3/Ejercicio12.html)         | Galería de imágenes dinámica
+
+### Ejercicios de DOM
+Ejercicio  | Descripción
+-----------|--------------
+ [Ejercicio 1](/Tema3/Ejercicio13.html)         | Ejercicio básico
+ [Ejercicio 2](/Tema3/Ejercicio14.html)         | Ejercicio básico
