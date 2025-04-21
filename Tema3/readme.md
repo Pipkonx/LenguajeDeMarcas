@@ -28,3 +28,8 @@ Ejercicio  | Descripción
  [Ejercicio 2](/Tema3/Ejercicio2D.html)         | Creamos elementos dinámicos
  [Ejercicio 3](/Tema3/Ejercicio3D.html)         | Removemos elementos
  [Ejercicio 4](/Tema3/Ejercicio4D.html)         | Documento de HTML con propiedades
+
+ ### Ejercicios avanzados de Javascript
+Ejercicio  | Descripción
+-----------|--------------
+ [Ejercicio 1](/Tema3/Ejercicio1A.html)         | Editor HTML y CSS
