@@ -35,3 +35,4 @@ Ejercicio  | Descripción
  [Ejercicio 1](/Tema3/Ejercicio1A.html)         | Editor HTML y CSS
  [Ejercicio 2](/Tema3/Ejercicio2A.html)         | Cambiamos el estilo
  [Ejercicio 3](/Tema3/Ejercicio3A.html)         | Cambiamos el estilo de sheet
+ [Ejercicio 4](/Tema3/Ejercicio4A.html)         | HTML Y DOM
