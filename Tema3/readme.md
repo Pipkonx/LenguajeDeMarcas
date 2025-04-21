@@ -33,3 +33,4 @@ Ejercicio  | Descripción
 Ejercicio  | Descripción
 -----------|--------------
  [Ejercicio 1](/Tema3/Ejercicio1A.html)         | Editor HTML y CSS
+ [Ejercicio 2](/Tema3/Ejercicio2A.html)         | Cambiamos el estilo
