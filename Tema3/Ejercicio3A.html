@@ -36,10 +36,14 @@
 
     #menu {
         background-color: #ffd700;
+        float: left;
+        width: 20%;
     }
 
     #content {
         background-color: #eeeeee;
+        float: right;
+        width: 80%;
     }
 
     #footer {
@@ -48,6 +52,12 @@
 
     body {
         margin: 0;
+    }
+
+    #container::after {
+        content: "";
+        display: table;
+        clear: both;
     }
 </style>
 
