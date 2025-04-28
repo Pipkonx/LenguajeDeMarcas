@@ -4,16 +4,15 @@ Este repositorio contiene ejemplos y ejercicios relacionados con XML (eXtensible
 
 ## Actividades
 
-| Actividad | Descripción | Enlace |
-|-----------|-------------|--------|
-| Ejercicio 1 | Creación de un documento XML básico sobre información personal | [Ver ejercicio](https://github.com/Pipkon/LLMM/tree/main/Tema4/ejercicios/ejercicio1/) |
-| Ejercicio 2 | Desarrollo de DTD interno y externo para validar un catálogo de libros | [Ver ejercicio](https://github.com/Pipkon/LLMM/tree/main/Tema4/ejercicios/ejercicio2/) |
-| Ejercicio 3 | Diseño de XML Schema para una biblioteca digital | [Ver ejercicio](https://github.com/Pipkon/LLMM/tree/main/Tema4/ejercicios/ejercicio3/) |
-| Ejercicio 4 | Transformación de XML a HTML usando XSLT para mostrar un menú de restaurante | [Ver ejercicio](https://github.com/Pipkon/LLMM/tree/main/Tema4/ejercicios/ejercicio4/) |
-| Ejercicio 5 | Validación de documentos XML usando diferentes esquemas y DTDs | [Ver ejercicio](https://github.com/Pipkon/LLMM/tree/main/Tema4/ejercicios/ejercicio5/) |
-| Ejercicio 6 | Implementación de namespaces y procesamiento de XML con JavaScript | [Ver ejercicio](https://github.com/Pipkon/LLMM/tree/main/Tema4/ejercicios/ejercicio6/) |
-| Ejercicio 7 | Desarrollo de una aplicación web completa usando XML, XSLT y JavaScript | [Ver ejercicio](https://github.com/Pipkon/LLMM/tree/main/Tema4/ejercicios/ejercicio7/) |
-
+| Ejercicio | Descripción |
+|-----------|-------------|
+| [Ejercicio 1](/Tema4/Ex1a.xml) | Creación de un documento XML básico sobre información personal |
+| [Ejercicio 2](/Tema4/Ex2a.xml) | Desarrollo de DTD interno y externo para validar un catálogo de libros |
+| [Ejercicio 3](/Tema4/Ex3a.xml) | Diseño de XML Schema para una biblioteca digital |
+| [Ejercicio 4](/Tema4/Ex4a.xml) | Transformación de XML a HTML usando XSLT para mostrar un menú de restaurante |
+| [Ejercicio 5](/Tema4/Ex5a.xml) | Validación de documentos XML usando diferentes esquemas y DTDs |
+| [Ejercicio 6](/Tema4/Ex6a.xml) | Implementación de namespaces y procesamiento de XML con JavaScript |
+| [Ejercicio 7](/Tema4/Ex7a.xml) | Desarrollo de una aplicación web completa usando XML, XSLT y JavaScript |
 ## Contenido
 
 1. Fundamentos XML
