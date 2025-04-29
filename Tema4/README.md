@@ -32,6 +32,27 @@ Este repositorio contiene ejemplos y ejercicios relacionados con XML (eXtensible
 | [Ejercicio 4](/Tema4/AJAX-EXERCISES/ejercicio4.html) | Procesamiento de objetos JSON complejos con mascotas |
 | [Ejercicio 5](/Tema4/AJAX-EXERCISES/ejercicio5.html) | Consumo de la API de la NASA para mostrar la imagen astronómica del día |
 
+## Proyecto XML - Cuestionario Interactivo
+
+Este proyecto consiste en un cuestionario interactivo desarrollado con XML, DTD, JavaScript y DOM.
+
+### Características principales:
+- Visualización de preguntas en formato de presentación
+- Documentos XML validados con DTD
+- Soporte bilingüe (español e inglés)
+- Temporizador para contabilizar el tiempo empleado
+- Cálculo y visualización de puntuación
+
+### Archivos del proyecto:
+- `preguntas_es.xml` - Preguntas en español (20 preguntas con 4 opciones cada una)
+- `preguntas_en.xml` - Preguntas en inglés (20 preguntas con 4 opciones cada una)
+- `index.html` - Página principal del cuestionario
+- `styles.css` - Hoja de estilos para la presentación
+- `script.js` - Funcionalidad JavaScript para la interactividad
+
+### Enlace al proyecto:
+[Proyecto XML - Cuestionario Interactivo](/Tema4/Proyecto/index.html)
+
 ## Contenido
 
 1. Fundamentos XML
