@@ -55,19 +55,6 @@ La evaluación del módulo se realiza mediante:
 - **Control de versiones**: Git y GitHub
 - **Validadores**: W3C Validator para HTML y CSS
 
-## Cómo Contribuir
-
-Si deseas contribuir a este repositorio:
-
-1. Haz un fork del repositorio
-2. Crea una rama para tu contribución
-3. Realiza tus cambios
-4. Envía un pull request
-
-## Contacto
-
-Para cualquier consulta relacionada con este módulo, puedes contactar con el profesor a través del campus virtual o en horario de tutorías.
-
 ---
 
 © 2025 Módulo de Lenguajes de Marcas - Ciclo Formativo de DAW
