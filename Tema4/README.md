@@ -51,7 +51,6 @@ Este proyecto consiste en un cuestionario interactivo desarrollado con XML, DTD,
 - `script.js` - Funcionalidad JavaScript para la interactividad
 
 ### Enlace al proyecto:
-[Proyecto XML - Cuestionario Interactivo](https://pipkonx.github.io/LenguajeDeMarcas/Tema4/Proyecto/index.html)
 [Proyecto XML - Cuestionario Interactivo](/Tema4/Proyecto/index.html)
 
 ## Contenido
