@@ -101,7 +101,7 @@
     <script>
         function cargarDatosMeteorologicos() {
             const codigoINE = document.getElementById("localidadSelect").value;
-            const url = `http://www.aemet.es/xml/municipios/localidad_${codigoINE}.xml`;
+            const url = `datos/localidad_${codigoINE}.xml`;
             
             const xhttp = new XMLHttpRequest();
             xhttp.onload = function() {
@@ -109,14 +109,13 @@
                     procesarDatosMeteorologicos(this.responseXML, codigoINE);
                 } else {
                     document.getElementById("weatherInfo").innerHTML = 
-                        "<p>Error al cargar los datos. Por favor, inténtalo de nuevo más tarde.</p>";
+                        "<p>Error al cargar los datos. Por favor, verifica que el archivo exista en la carpeta 'datos'.</p>";
                 }
             };
             
             xhttp.onerror = function() {
                 document.getElementById("weatherInfo").innerHTML = 
-                    "<p>Error al cargar los datos. Esto puede deberse a restricciones CORS. " +
-                    "Intenta usar una extensión de navegador para deshabilitar CORS o ejecutar en un servidor local.</p>";
+                    "<p>Error al cargar los datos. Asegúrate de que el archivo XML existe en la carpeta 'datos'.</p>";
             };
             
             xhttp.open("GET", url);
